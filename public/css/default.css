@@ -1,0 +1,74 @@
+/*------------------------------------------------------------------
+[Table of contents]
+
+1. Body / body
+2. Header / .navbar-header
+3. Navigation / .navbar-custom
+4. Menu / .push_sidebar
+5. iosSlider / .sliderContainer
+6. Collections / .section-product
+7. About us / #mapkit-7453
+8. Content / .content-section
+9. Product / .shop-in
+10. Blog / .blog-bg
+10. Blog Details / .blog-bg
+11. Blog Page / .blog-bg
+12. Footer / .footer
+13. Contact Us
+
+-------------------------------------------------------------------
+
+[Color codes]
+Body-Font:  	#000 {dark}
+Background:		#ffffff (white)
+Content:		#656b6f (light black)
+
+a (standard):	#000 (black)
+a (visited):	#656b6f (dark gray)
+a (active):	 	#656b6f (dark gray)
+ 
+-------------------------------------------------------------------
+
+[Font Properties]
+Body font:		14px Open sans,sans-serif;
+Headers:		11px, 400, Open sans,sans-serif;
+Input, textarea:14px Open sans,sans-serif;
+
+-------------------------------------------------------------------*/
+
+/*[Google Fonts]*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,600'); 
+/*Google font*/
+
+/*font-awesome*/
+@import url("//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css");
+/*font-awesome*/
+
+/*[Bootstrap Core CSS]*/
+@import url("../css/bootstrap.min.css");
+
+/*[page CSS]*/
+@import url("../css/page.css");
+@import url("../css/style.css"); 
+@import url("../css/style2.css"); 
+
+/*[component CSS]*/
+@import url("../css/component.css"); 
+
+/*[custom-style CSS]*/
+@import url("../css/custom-style.css");
+
+/*[searchbar CSS]*/ 
+@import url("../js/searchbar/css/component.css");
+
+/*[amazingslider CSS]*/ 
+@import url("../js/sliderengine/amazingslider-1.css");
+
+/*[responsive CSS]*/ 
+@import url("../css/responsive.css");
+
+/*[hover2 CSS]*/ 
+@import url("../css/hover2.css");
+
+
+

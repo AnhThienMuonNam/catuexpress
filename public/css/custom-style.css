@@ -1,0 +1,86 @@
+/************************************************************
+* Push Sidebar Menu
+************************************************************/
+.nav_trigger {
+	cursor: pointer;
+	display: inline-block;
+	font-size: 26px;
+	margin:4px 20px 0 50px;
+	float:right;
+}
+body.show_sidebar .nav_trigger {
+	margin-right:20px;
+}
+#push_sidebar {
+	background: #fff;
+	bottom: 0;
+	color: #000;
+	left: 100%;
+	overflow: auto;
+	position: fixed;
+	top: 0;
+	width: 25%;
+-webkit-transition: all .5s ease;
+-moz-transition: all .5s ease;
+-ms-transition: all .5s ease;
+-o-transition: all .5s ease;
+transition: all .5s ease;
+	z-index:99;
+	padding:68px 0 0 23px;
+
+
+}
+body.show_sidebar #push_sidebar {
+	left: 80%;
+}
+#wrapper {
+	margin-right: 0;
+	overflow: hidden;
+	width: 100%;
+-webkit-transition: all .5s ease;
+-moz-transition: all .5s ease;
+-ms-transition: all .5s ease;
+-o-transition: all .5s ease;
+transition: all .5s ease;
+}
+body.show_sidebar #wrapper {
+	margin-right: 25%;
+	width: 10%;
+}
+#push_sidebar {
+	width: 20%;
+}
+body.show_sidebar #push_sidebar {
+	left: 80%;
+}
+body.show_sidebar #wrapper {
+	margin-right: 20%;
+	width: 83%;
+}
+/***********************************/
+
+#push_sidebar li a {
+	padding:14px 20px 14px 20px;
+	display:block;
+	background: #fff;
+	color:#222;
+	text-decoration: none;
+	text-align:right;
+	font-family: 'Playfair Display', Georgia, Times, Serif;
+	font-size:15px;
+	text-transform:uppercase;
+	border-bottom: dotted 1px #000;
+}
+#push_sidebar li a:hover {
+	color:#dfb859
+}
+#push_sidebar li a .fa {
+	font-size: 19px;
+	float: right;
+	width: 30px;
+	text-align: center;
+	margin-left: 5px;
+}
+.nav_trigger {
+	color:#fff;
+}

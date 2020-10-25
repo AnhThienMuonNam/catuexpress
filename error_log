@@ -1,0 +1,13 @@
+[26-May-2019 00:00:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[26-May-2019 06:16:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[30-May-2019 14:31:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[04-Jun-2019 13:43:12 Asia/Ho_Chi_Minh] PHP Warning:  require_once(/home/sagittbc/public_html/public/index.php): failed to open stream: No such file or directory in /home/sagittbc/public_html/server.php on line 21
+[04-Jun-2019 13:43:13 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '/home/sagittbc/public_html/public/index.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/sagittbc/public_html/server.php on line 21
+[15-Jun-2019 13:19:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[07-Jul-2019 04:36:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[04-Jun-2020 22:20:01 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function increment() on null in /home/sagittbc/public_html/app/Http/Controllers/HomeController.php on line 633
+[20-Jun-2020 04:19:15 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function increment() on null in /home/sagittbc/public_html/app/Http/Controllers/HomeController.php on line 633
+[06-Aug-2020 11:27:06 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function increment() on null in /home/sagittbc/public_html/app/Http/Controllers/HomeController.php on line 633
+[06-Aug-2020 11:30:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function increment() on null in /home/sagittbc/public_html/app/Http/Controllers/HomeController.php on line 633
+[11-Aug-2020 12:15:32 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on boolean in /home/sagittbc/public_html/app/Http/Controllers/SettingController.php on line 27
+[18-Aug-2020 13:31:43 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on boolean in /home/sagittbc/public_html/app/Http/Controllers/SettingController.php on line 27
